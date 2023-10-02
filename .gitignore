@@ -9,9 +9,10 @@
 *.user
 *.userosscache
 *.sln.docstates
-*.slnCalculator.sln
+*.sln
 *.vcxproj
 *.vcxproj.filters
+*.vcxproj.user
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -399,10 +400,3 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-
-myFunctions.sln
-myFunctions.vcxproj
-myFunctions.vcxproj.filters
-myFunctions.vcxproj.user
-
-
